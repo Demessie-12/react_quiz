@@ -8,7 +8,7 @@
   --color-accent: #ffa94d;
 }
 
-@import url("https://fonts.googleapis.com/css2?family=Codystar&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abyssinica+SIL&display=swap");
 
 * {
   margin: 0;
@@ -37,7 +37,11 @@ body {
 }
 
 .main {
-  width: 320px;
+  width: 60%;
+
+  @media screen and (max-width: 425px) {
+    width: 320px;
+  }
 }
 
 .app-header {
@@ -79,6 +83,7 @@ h1 {
 
   @media screen and (max-width: 425px) {
     font-size: 2.6rem;
+    font-weight: 550;
   }
 }
 
@@ -103,7 +108,7 @@ h3 {
 
 h4 {
   font-size: 2.2rem;
-  font-weight: 600;
+  font-weight: 500;
   margin-bottom: 2.4rem;
 }
 
@@ -111,6 +116,29 @@ h4 {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.start h2 {
+  color: red;
+}
+
+.stjohn {
+  width: 100px;
+}
+
+.start .questionNumber {
+  display: flex;
+  /* height: 35px; */
+  justify-content: space-between;
+}
+
+.start select {
+  color: white;
+  font-size: 2rem;
+  height: 30px;
+  background-color: #343a40;
+  border: none;
+  margin-left: 2px;
 }
 
 .progress {
@@ -167,6 +195,10 @@ progress {
 .btn-ui {
   float: right;
 }
+.btn-quit {
+  float: left;
+  background-color: red;
+}
 
 .options {
   display: flex;
@@ -185,14 +217,19 @@ progress {
   border: 2px solid var(--color-theme);
   color: var(--color-light);
 }
-.btn-option.wrong {
-  background-color: var(--color-accent);
-  border: 2px solid var(--color-accent);
-  color: var(--color-darkest);
+.btn-option.false {
+  background-color: red;
+  border: 2px solid red;
+  color: var(--color-light);
 }
 
 .answer {
   transform: translateX(2rem);
+}
+
+.hiddenIcon {
+  visibility: hidden;
+  align-items: end;
 }
 
 .result {
