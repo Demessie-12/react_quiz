@@ -30,13 +30,6 @@ const All_questions = {
       points: 10,
     },
     {
-      question:
-        "What's the name of the syntax we use to describe the UI in React components?",
-      options: ["FBJ", "Babel", "JSX", "ES2015"],
-      correctOption: 2,
-      points: 10,
-    },
-    {
       question: "ጌታችን ኢየሱስ ክርስቶስ የመጀመሪያውን ተዓምር ያረገው በየት ነው?",
       options: ["በቃና ሰርግ ቤት", "በአይሁድ ቤተመቅደስ", "በቤተልሄም ምኩራብ", "በገሊላ ባህር"],
       correctOption: 0,
