@@ -174,7 +174,7 @@ progress {
   font-size: 2rem;
   border: 2px solid var(--color-dark);
   background-color: var(--color-dark);
-  padding: 1.2rem 2.4rem;
+  padding: 1.2rem 1.4rem;
   cursor: pointer;
   border-radius: 100px;
   transition: 0.3s;
@@ -228,7 +228,7 @@ progress {
 }
 
 .hiddenIcon {
-  visibility: hidden;
+  display: none;
   align-items: end;
 }
 
@@ -270,7 +270,7 @@ progress {
   font-size: 1.8rem;
   color: var(--color-medium);
   border: 2px solid var(--color-dark);
-  padding: 1.35rem 2.8rem;
+  padding: 1.35rem 1.8rem;
   border-radius: 100px;
 }
 

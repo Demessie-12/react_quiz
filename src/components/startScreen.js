@@ -5,7 +5,6 @@ function StartScreen({ numQuestions, questions, dispatch }) {
     let { value } = event.target;
     value = Number(value);
     dispatch({ type: "changeQuestionNum", payload: value });
-    console.log(questions.length);
   }
   return (
     <div className="start">
