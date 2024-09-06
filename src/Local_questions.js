@@ -39,7 +39,7 @@ const All_questions = {
       question: "ቃና ተብሎ የሚጠራው ቦታ በየት ይገኛል?",
       options: ["በይሁዳ አዋርጃ", "በገሊላ አውራጃ", "በሰማርያ መንደር", " ከእስራኤል ውጪ"],
       correctOption: 1,
-      points: 30,
+      points: 10,
     },
     {
       question: "በዩሐ 2 ላይ በተፃፈው መሰረት ስለ ኢየሱስ ትክክል ያልሆነው የቱ ነው?",
@@ -50,19 +50,19 @@ const All_questions = {
         "ይህን ቤተ መቅደስ አፍርሼ በሶስተኛውም ቀን አነሳዋለው አላቸው",
       ],
       correctOption: 3,
-      points: 20,
+      points: 10,
     },
     {
       question: "በሌሊት ወደ ኢየሱስ እየመጣ ይማር የነበረው ማነው?",
       options: ["ሳምራዊቷ ሴት", "ዶኪማስ", "ነቆዲማስ", "መጥምቁ ዩሐንስ"],
       correctOption: 2,
-      points: 20,
+      points: 10,
     },
     {
       question: "'የምናቀውን እንናገራላን ፣ ያየነውንም እንመሰክራለን' ይህን ቃል የተናገረው ማነው?",
       options: ["ኢየሱስ ክርስቶስ", "ኒቆዲሞስ", "መጥምቁ ዩሐንስ", "ከፈሪሳውያን አንዱ"],
       correctOption: 0,
-      points: 30,
+      points: 10,
     },
     {
       question: "ስለ ሰማርያ ትክክል ያልሆነው?",
@@ -73,7 +73,7 @@ const All_questions = {
         "ሁሉም ትክክል ነው",
       ],
       correctOption: 0,
-      points: 30,
+      points: 10,
     },
     {
       question: "ስለ ሳምራዊቷ ሴት ትክክል የሆነው የቱ ነው?",
@@ -95,7 +95,7 @@ const All_questions = {
         "ሀሳዊ መሲህ ነው",
       ],
       correctOption: 2,
-      points: 30,
+      points: 10,
     },
     {
       question: "ቤተ ሳይዳ ስለሚባለው የመጠመቂያ ቦታ ትክክል የሆነው የቱ ነው?",
@@ -106,7 +106,7 @@ const All_questions = {
         "ሀ እና መ መልስ ናቸው",
       ],
       correctOption: 3,
-      points: 30,
+      points: 10,
     },
     {
       question: "በዩሐ 5 ላይ የተጠቀሰው ጌታችን በቤተ ሳይዳ ያዳነው ሰው ለስንት ዓመት ነበር የታመመው?",
@@ -123,7 +123,7 @@ const All_questions = {
         "ከዳና በኋላ ወደ ቤተመቅደስ ሄዶ አያውቅም",
       ],
       correctOption: 0,
-      points: 20,
+      points: 10,
     },
     {
       question: "ኢየሱስ 5000 ሰዎችን በጥብርያዶስ አከባቢ የመገበው በምንድነው?",
@@ -190,7 +190,7 @@ const All_questions = {
         "ሁሉም ትክክል ነው",
       ],
       correctOption: 3,
-      points: 30,
+      points: 10,
     },
     {
       question: "ኢየሱስ ስለ አምንዝራይቱ ምን አለ?",
@@ -201,7 +201,7 @@ const All_questions = {
         "ሁሉም ትክክል ነው",
       ],
       correctOption: 3,
-      points: 20,
+      points: 10,
     },
     {
       question: "ኢየሱስ ስለ ራሱ ምን ብሏል?",
@@ -212,7 +212,7 @@ const All_questions = {
         "ሁሉም ትክክል ነው",
       ],
       correctOption: 3,
-      points: 20,
+      points: 10,
     },
     {
       question: "በዩሐ 9 ላይ ያለው አይነስውር በምን ምክንያት ዕውር ሆኖ ተወለደ?",
@@ -223,7 +223,7 @@ const All_questions = {
         "ምክንያቱ አይታወቅም",
       ],
       correctOption: 2,
-      points: 30,
+      points: 10,
     },
     {
       question: "ኢየሱስ ሲወለድ ጀምሮ ዕውር የነበረውን ሰው እንዴት ነው ያዳነው?",
@@ -234,13 +234,13 @@ const All_questions = {
         "ሀ እና መ መልስ ናቸው",
       ],
       correctOption: 3,
-      points: 30,
+      points: 10,
     },
     {
       question: "ሰሊሆም' ማለት ምን ማለት ነው?",
       options: ["ጥልቅ ጉድጓድ", "የተላከ", "ሰፊ ጉድጓድ", "የሰላም ቦታ"],
       correctOption: 1,
-      points: 30,
+      points: 10,
     },
     {
       question: "ስለ ኢየሱስ ክርስቶስ ምሳሌያዊ አገላለፅ ትክክል የሆነው የቱ ነው?",
@@ -262,7 +262,7 @@ const All_questions = {
         "ሁሉም ትክክል ነው",
       ],
       correctOption: 3,
-      points: 30,
+      points: 10,
     },
     {
       question: "አይሁድ ክርስቶስን ሊወግሩት ሲሉ እሱ ምን አደረገ?",
@@ -273,7 +273,7 @@ const All_questions = {
         "ምንም ስላላደረገ ይዘው ወገሩት",
       ],
       correctOption: 2,
-      points: 20,
+      points: 10,
     },
     {
       question: "ስለ አልዓዛር ትክክል ያልሆነው የቱ ነው?",
@@ -345,7 +345,7 @@ const All_questions = {
         "ሁሉም ትክክል ነው",
       ],
       correctOption: 3,
-      points: 30,
+      points: 10,
     },
     {
       question: "ኢየሱስ ማን አሳልፎ እንደሚሸጠው ለሐዋርያቱ በምን ምልክት ነገራቸው?",
@@ -356,13 +356,13 @@ const All_questions = {
         "ሁሉም ትክክል ነው",
       ],
       correctOption: 2,
-      points: 20,
+      points: 10,
     },
     {
       question: "ኢየሱስ ዶሮ ሳይጮህ በፊት ሶስት ጊዜ ትክደኛለህ ያለው ማንን ነው?",
       options: ["ጳውሎስን", "ጴጥሮስን", "ይሁዳን", "ዩሐንስን"],
       correctOption: 1,
-      points: 20,
+      points: 10,
     },
     {
       question: "ፊልጶስ የተባለው ሐዋርያ 'አብን አሳየንና ይበቃናል' ሲል ኢየሱስ ምን ብሎ መለሰለት?",
@@ -373,7 +373,7 @@ const All_questions = {
         " አብን ለማየት መፆም አለባቹ",
       ],
       correctOption: 2,
-      points: 30,
+      points: 10,
     },
     {
       question: "ኢየሱስ ክርስቶስ 'ከወደዳችሁኝስ ________' ብሏል።",
@@ -384,7 +384,7 @@ const All_questions = {
         "አይሁድ እንዳይዙኝ አብራችሁኝ ሽሹ",
       ],
       correctOption: 0,
-      points: 30,
+      points: 10,
     },
     {
       question: "ኢየሱስ ክርስቶስ ከመሰቀሉ በፊት ምን ብሎ አስተማራቸው?",
@@ -407,7 +407,7 @@ const All_questions = {
         "መልሱ የለም",
       ],
       correctOption: 3,
-      points: 30,
+      points: 10,
     },
     {
       question: "ጌታችን ክርስቶስ ለሐዋርያቱ ስለ ሚገጥማቸው ፈተና ምን ብሎ አስረዳቸው?",
@@ -418,7 +418,7 @@ const All_questions = {
         "ሁሉም ትክክል ነው",
       ],
       correctOption: 3,
-      points: 30,
+      points: 10,
     },
     {
       question: "ስለ መንፈስ ቅዴስ ትክክል ያልሆነው የቱ ነው?",
@@ -429,7 +429,7 @@ const All_questions = {
         "ሁሉም ትክክል ነው",
       ],
       correctOption: 0,
-      points: 20,
+      points: 10,
     },
     {
       question: "ኢየሱስ ክርስቶስ ለሐዋርያቱ ብዙ ነገርን ከነገራቸው በኋላ ምን አለ?",
@@ -496,13 +496,13 @@ const All_questions = {
       question: "ጌታችን በአይሁድ ሲያዝ ጴጥሮስ ሾተሉን መዞ ጆሮውን የመታው ሰው ስሙ ማን ነው?",
       options: ["ባኮስ", "ማልኮስ", "ሲላስ", "አናንያ"],
       correctOption: 1,
-      points: 30,
+      points: 10,
     },
     {
       question: "ጌታችን በተሰቀለበት አመት ሊቀ ካህን የነበረው ማን ነው?",
       options: ["ጲላጦስ", "ሄሮድስ", "ሃና እና ቀያፋ", "ኒቆዲሞስ"],
       correctOption: 2,
-      points: 20,
+      points: 10,
     },
     {
       question: "ጲላጦስ ኢየሱስን በመረመረው ጊዜ ምን ብሎ ተናገረ?",
@@ -513,7 +513,7 @@ const All_questions = {
         "ሁሉም ትክክል ነው",
       ],
       correctOption: 3,
-      points: 20,
+      points: 10,
     },
     {
       question: "በዕለተ አርብ አይሁድ ኢየሱስን ምን አደረጉት?",
@@ -525,13 +525,13 @@ const All_questions = {
         "ሁሉም ትክክል ነው",
       ],
       correctOption: 4,
-      points: 30,
+      points: 10,
     },
     {
       question: "ጌታችንን ኢየሱስ የተሰቀለው በየት ነው?",
       options: ["ጎልጎታ", "ቀራንዮ", "የራስ ቅል ስፍራ", "ሁሉም ትክክል ነው"],
       correctOption: 3,
-      points: 30,
+      points: 10,
     },
     {
       question: "ኢየሱስ ክርስቶስ በመስቀል ላይ ሳለ ድንግል ማርያምን 'እነሆ እናትህ' ብሎ የሰጠው ለማን ነው?",
@@ -548,13 +548,13 @@ const All_questions = {
         "መጀመሪያ ትንሳዔውን የገለፀው ለቅዱሳን አንስት ነው",
       ],
       correctOption: 2,
-      points: 30,
+      points: 10,
     },
     {
       question: "በትንሳዔ እለት ክርስቶስ ለሐዋርያቱ ሲገለጥ ማን በዛ አልነበረም?",
       options: ["ዲዲሞስ", "ቶማስ", "ጴጥሮስ", "ሀ እና ለ መልስ ናቸው"],
       correctOption: 3,
-      points: 30,
+      points: 10,
     },
     {
       question: "ቶማስ ጨምሮ ሁሉም ሐዋርያት ባሉበት ክርስቶስ የተገለጠላቸው መቼ ነው?",
@@ -565,25 +565,25 @@ const All_questions = {
         "ከትንሳኤው በስምንተኛው ቀን",
       ],
       correctOption: 3,
-      points: 20,
+      points: 10,
     },
     {
       question: "ኢየሱስ ከትንሳኤው በኋላ ሐዋርያት አሳ ሲያጠምዱ በየት ተገለጠላቸው?",
       options: ["በኤርትራ ባህር", "በቀይ ባህር", "በጥብርያዶስ (በገሊላ) ባህር", "ሁሉም ትክክል ነው"],
       correctOption: 2,
-      points: 30,
+      points: 10,
     },
     {
       question: "ኢየሱስ ከትንሳኤ በኋላ ጴጥሮስን ምን አደረገው",
       options: ["ከሐዋርያት ማህበር ለየው", "ስለ ክህድቱ ቀጣው", "ህዝቡን እንዱጠብቅ ሾመው", "መልሱ የለም"],
       correctOption: 2,
-      points: 30,
+      points: 10,
     },
     {
       question: "በዩሐንስ ወንጌል 'ጌታ የሚወደው' እየተባለ የተጠቀሰው ማነው?",
       options: ["ዩሐንስ", "ማቴዎስ", "ጴጥሮስ", "ናትናኤል"],
       correctOption: 0,
-      points: 20,
+      points: 10,
     },
   ],
 };
